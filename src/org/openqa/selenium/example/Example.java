@@ -18,7 +18,7 @@ public class Example  {
         WebDriver driver = new FirefoxDriver();
 
         // And now use this to visit Google
-        driver.get("http://www.soyoustart.com/es/ofertas/e3-ssd-3.xml");
+        driver.get("http://www.soyoustart.com/es/ofertas/e3-ssd-4.xml");
 
         // Find the text input element by its name
         try
